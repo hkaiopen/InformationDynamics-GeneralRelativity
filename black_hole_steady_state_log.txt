@@ -1,0 +1,7 @@
+Minimizing information free energy using L-BFGS-B (enhanced constraints)...
+Optimization success: True
+Final free energy: 4.784139e+00
+Number of iterations: 248
+Mean squared error w.r.t. Schwarzschild: g_tt = 4.02e-02, g_rr = 6.02e+01
+Volume element (-g_tt*g_rr) MSE from 1: 5.84e-05
+⚠️ Slight residual error – try increasing N or adjusting lambda_vol, lambda_v.
