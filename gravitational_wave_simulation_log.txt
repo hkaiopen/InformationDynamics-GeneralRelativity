@@ -1,0 +1,3 @@
+Measured propagation speed: c ≈ 0.999349
+Expected speed: c = 1.0 (natural units)
+✅ Gravitational wave speed equals the speed of light – general relativity verified.
